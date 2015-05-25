@@ -1,5 +1,7 @@
 # docker-wrapper-py [![Build status](https://ci.frigg.io/badges/frigg/docker-wrapper-py/)](https://ci.frigg.io/frigg/docker-wrapper-py/last/) [![Coverage status](https://ci.frigg.io/badges/coverage/frigg/docker-wrapper-py/)](https://ci.frigg.io/frigg/docker-wrapper-py/last/)
 
+[![Join the chat at https://gitter.im/frigg/docker-wrapper-py](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/frigg/docker-wrapper-py?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Install
 
     pip install docker-wrapper
